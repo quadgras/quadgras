@@ -1,17 +1,45 @@
-# About Me
+# Introduction
 
-Hello! You can call me **Gras** (my GitHub codename).  
-I enjoy observing the world, identifying problems, and finding better ways to solve them. Writing software is my primary tool for turning ideas into solutions.
+I am Abhijeet Verma (code name quadgras).
+I consider myself an Engineer, Philosopher and Independent Researcher.
+My primary domain is software research and development.
+But I frequently explore different things
+including but not limited to
+finance, human body, physics, vector graphics
+and meaning of life itself.
+I constantly try (and generally fail) to optimize things around me,
+observe, identify problems and
+find new or better solutions.
 
-## My Approach to Software Development
+# Approach to Software Dev
 
-- I strive to write **performant software** that avoids unnecessary resource usage (e.g., time, bandwidth, CPU, memory).
-- In my free time, I explore and create software that enhances resource optimization and developer experience, learning from existing tools and new innovations.
-- I value the coexistence of **Open Source Software (OSS)** and proprietary software.
+- Create software that generate some value
+  (includes self learning).
+- Prioritise functional requirements during development.
+- Keep non-functional requirements in secondary focus.
+- Optimise resource usage (CPU, Memory, Energy) and performance.
+- Explore, experiment with and choose technologies that can
+  enhance development productivity and
+  maximize fulfilling above goals.
+- Value coexistence of open source and proprietary software
+  (for different situations/factors) with open source as the default.
 
-## My Tech Stack
+# Software Skills
 
-- **Primary Language**: Python 3  
-- **Future Learning Goals**:
-  1. JavaScript (for web development necessity)
-  2. Rust (for its focus on developer experience, programming safety, and performance)
+Currently, I specialize in full stack web development.
+I am familiar with follwing software technologies -
+> Conventions: 
+> ~ABC~ - Past/Inactive,
+> ABC - Active, 
+> **ABC** - Active & proficient
+
+- Programming Languages - ~C~, **Python**, Javascript
+- Databases - SQLite, ~MySQL~
+- Data Processing - ~Numpy~, ~Pandas~, Matplotlib
+- Backend Web - **Flask**, REST API
+- Frontend & Apps - React, React Router v7, HTML, CSS, ~Flutter~, ~Tkinter~
+- Supplementary - **Markdown**, Inkscape, UI/UX, Git
+
+When I have a stable career/financial-backup,
+I would love to learn and experiment with Rust
+for its blend of performance and safety.
