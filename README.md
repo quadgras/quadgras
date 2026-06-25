@@ -33,7 +33,7 @@ I am familiar with follwing software technologies -
 > ABC - Active, 
 > **ABC** - Active & proficient
 
-- Programming Languages - ~C~, **Python**, Javascript
+- Programming Languages - ~C~, **Python**, Javascript, Java
 - Databases - SQLite, ~MySQL~
 - Data Processing - ~Numpy~, ~Pandas~, Matplotlib
 - Backend Web - **Flask**, REST API
