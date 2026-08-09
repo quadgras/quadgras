@@ -7,7 +7,7 @@ But I frequently explore different things
 including but not limited to
 finance, human body, physics, vector graphics
 and meaning of life itself.
-I constantly try (and generally fail) to optimize things around me,
+I constantly try to optimize things around me,
 observe, identify problems and
 find new or better solutions.
 
@@ -27,7 +27,7 @@ find new or better solutions.
 # Software Skills
 
 Currently, I specialize in full stack web development.
-I am familiar with follwing software technologies -
+I am familiar with following software concepts and technologies-
 > Conventions: 
 > ~ABC~ - Past/Inactive,
 > ABC - Active, 
@@ -39,7 +39,16 @@ I am familiar with follwing software technologies -
 - Backend Web - **Flask**, REST API
 - Frontend & Apps - React, React Router v7, HTML, CSS, ~Flutter~, ~Tkinter~
 - Supplementary - **Markdown**, Inkscape, UI/UX, Git
+- CS Fundamentals - Discrete Mathematics, Basic Data Structures and Algorithms,
+  Theory of Computation, Linear Algebra
 
 When I have a stable career/financial-backup,
 I would love to learn and experiment with Rust
 for its blend of performance and safety.
+
+# Highest Education
+
+- Degree - Bachelor of Technology
+- Course - Computer Science and Business System
+- Institute - School of Information Technology RGPV Bhopal
+- CGPA - 6.73
