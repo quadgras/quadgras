@@ -1,6 +1,6 @@
 # Introduction
 
-I am Abhijeet Verma (code name quadgras).
+I am Abhijeet Verma (@stratezist).
 I consider myself an Engineer, Philosopher and Independent Researcher.
 My primary domain is software research and development.
 But I frequently explore different things
